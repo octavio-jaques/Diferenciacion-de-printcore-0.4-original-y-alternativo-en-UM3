@@ -8,7 +8,12 @@ _Tras múltiples pruebas con los printcores de 0.4 mm, tanto originales como alt
 
 ## Carcasa 
 
-_debido a que las diferencias de dimensiones de las carcasas son pequeñas y que la textura del material dependerá del uso, la manera más sencilla de diferenciar la original de la alternativa es fijarse en el carácter que separa las cifras decimales del 0.4. En al caso del original, el carácter que separa los números 0 y 4 es un círculo como se ve en las carcasas que están a la izquierda de la imagen. En el caso de las alternativas el carácter que separa los números es un cuadrado como se ve en la carcaza en la derecha de la imagen._
+_Debido a que las diferencias de dimensiones de las carcasas son pequeñas y que la textura del material dependerá del uso, la manera más sencilla de diferenciar la original de la alternativa es fijarse en el carácter que separa las cifras decimales del 0.4. En al caso del original, el carácter que separa los números 0 y 4 es un círculo como se ve en las carcasas que están a la izquierda de la imagen. En el caso de las alternativas el carácter que separa los números es un cuadrado como se ve en la carcaza en la derecha de la imagen._
 
 <img title="carcasas" width="900" heigth="900" src = "./img/carcasas.jpg">
 
+## Disipadores 
+
+_La principal diferencia entre el disipador original y el alternativo es que el original posee una guía de teflón en su interior y la punta en la que se enrosca el nozzle se conecta a presión con el disipador (disipador de la izquierda de la imagen), en cambio, el alternativo no posee guía de teflón y la punta donde se enrosca el nozzle también se enrosca en el disipador (disipador de la derecha de la imagen)._
+
+<img title="disipadores" width="900" heigth="900" src = "./img/comp-DISIPADOR.jpg">
