@@ -17,3 +17,9 @@ _Debido a que las diferencias de dimensiones de las carcasas son pequeñas y que
 _La principal diferencia entre el disipador original y el alternativo es que el original posee una guía de teflón en su interior y la punta en la que se enrosca el nozzle se conecta a presión con el disipador (disipador de la izquierda de la imagen), en cambio, el alternativo no posee guía de teflón y la punta donde se enrosca el nozzle también se enrosca en el disipador (disipador de la derecha de la imagen)._
 
 <img title="disipadores" width="900" heigth="900" src = "./img/comp-DISIPADOR.jpg">
+
+## Guía de entrada del disipador 
+
+_La principal diferencia entre una guía original y una alternativa es que la original presenta dos cortes en forma de media luna (como se ve en la imagen de la izquierda), los cuales sirven para sacar la guía con un llave, en cambio en el caso del alternativo los cortes son rectos(imagen de la derecha)._
+
+<img title="gía disipador" width="400" heigth="400" src = "./img/guia-disip-origjpg.jpg"> <img title="gía disipador" width="460" heigth="460" src = "./img/guia-disip-alt.jpg">
