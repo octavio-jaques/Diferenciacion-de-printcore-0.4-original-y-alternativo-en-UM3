@@ -22,4 +22,4 @@ _La principal diferencia entre el disipador original y el alternativo es que el 
 
 _La principal diferencia entre una guía original y una alternativa es que la original presenta dos cortes en forma de media luna (como se ve en la imagen de la izquierda), los cuales sirven para sacar la guía con un llave, en cambio en el caso del alternativo los cortes son rectos(imagen de la derecha)._
 
-<img title="gía disipador" width="400" heigth="400" src = "./img/guia-disip-origjpg.jpg"> <img title="gía disipador" width="460" heigth="460" src = "./img/guia-disip-alt.jpg">
+<img title="gía disipador" width="400" heigth="400" src = "./img/guia-disip-origjpg.jpg"> <img title="gía disipador" width="430" heigth="430" src = "./img/guia-disip-alt.jpg">
